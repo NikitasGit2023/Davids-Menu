@@ -1,0 +1,717 @@
+{
+  "breakfast": [
+    {
+      "name": "Утренний перекус",
+      "ingredients": "2 яйца, 2 охотничьи колбаски, бейгл, шпинат, соус",
+      "price": "65000",
+      "imageUrl": "/breakfast/eggs-and-sausage.jpg"
+    },
+    {
+      "name": "Сырники",
+      "ingredients": "сырники, сметана, ягодный соус, нутелла",
+      "price": "65000",
+      "imageUrl": "/breakfast/sirniki.jpg"
+    },
+    {
+      "name": "Овсяная каша",
+      "ingredients": "",
+      "price": "30000",
+      "imageUrl": "/breakfast/oatmeal-poridge.jpg"
+    },
+    {
+      "name": "Манная каша",
+      "ingredients": "",
+      "price": "30000",
+      "imageUrl": "/breakfast/samolina-poridge.jpg"
+    },
+    {
+      "name": "Блинчики классические",
+      "ingredients": "3 блина, сгущённое молоко, сметана",
+      "price": "20000",
+      "imageUrl": "/breakfast/classic-blin.jpg"
+    },
+    {
+      "name": "Блинчик с нутеллой",
+      "ingredients": "блин, нутелла",
+      "price": "20000",
+      "imageUrl": "/breakfast/chocolate-blin.jpg"
+    },
+    {
+      "name": "Блинчик с вишней",
+      "ingredients": "блин, вишнёвое варенье",
+      "price": "20000",
+      "imageUrl": "/breakfast/cherry-blin.jpg"
+    },
+    {
+      "name": "Блинчик с индейкой и курицей",
+      "ingredients": "картофельное пюре, индейка, курица",
+      "price": "50000",
+      "imageUrl": "/breakfast/chicken-blin.jpg"
+    },
+    {
+      "name": "Блинчик с лососем",
+      "ingredients": "лосось, сливочный сыр, шпинат",
+      "price": "30000",
+      "imageUrl": "/breakfast/salmon-blin.jpg"
+    }
+
+
+  ],
+
+  "hot-drinks": [
+    
+  {
+    "name": "Эспрессо",
+    "price": "19000",
+    "ingredients": "",
+    "imageUrl": "/hot_drinks/espresso.jpg"
+  },
+  {
+    "name": "Капучино",
+    "price": "26000",
+    "ingredients": "",
+    "imageUrl": "/hot_drinks/capuccino.jpg"
+  },
+  {
+    "name": "Матча Латте",
+    "price": "40000",
+    "ingredients": "",
+    "imageUrl": "/hot_drinks/matcha-latte.jpg"
+  },
+  {
+    "name": "Американо",
+    "price": "22000",
+    "ingredients": "",
+    "imageUrl": "/hot_drinks/americano.jpg"
+  },
+  {
+    "name": "Горячий Шоколад",
+    "price": "33000",
+    "ingredients": "",
+    "imageUrl": "/hot_drinks/hot-chocolate.jpg"
+  },
+  {
+    "name": "Латте",
+    "price": "28000",
+    "ingredients": "",
+    "imageUrl": "/hot_drinks/latte.png"
+  },
+  {
+    "name": "Раф",
+    "price": "40000",
+    "ingredients": "",
+    "imageUrl": "/hot_drinks/raf.jpg"
+  },
+  {
+    "name": "Мокко",
+    "price": "27000",
+    "ingredients": "",
+    "imageUrl": "/hot_drinks/mocha.jpg"
+  },
+  {
+    "name": "Горячий Какао",
+    "price": "30000",
+    "ingredients": "",
+    "imageUrl": "/hot_drinks/hot-cocoa.jpg"
+  },
+  {
+    "name": "Глинтвейн Б/А",
+    "price": "40000",
+    "ingredients": "",
+    "imageUrl": "/hot_drinks/mulledwine.jpg"
+  },
+  {
+    "name": "Флэт Уайт",
+    "price": "27000",
+    "ingredients": "",
+    "imageUrl": "/hot_drinks/flat-white.jpg"
+  }
+  ],
+
+  "cold-coffee" :[
+
+{
+  "name": "Бамбл",
+  "price": "40000",
+  "ingredients": "",
+  "imageUrl": "/cold_coffee/bumble.jpg"
+},
+{
+  "name": "Айс Американо",
+  "price": "29000",
+  "ingredients": "",
+  "imageUrl": "/cold_coffee/ice-americano.jpg"
+},
+{
+  "name": "Айс Капучино",
+  "price": "35000",
+  "ingredients": "",
+  "imageUrl": "/cold_coffee/ice-capuccino.jpg"
+},
+{
+  "name": "Матча Колладо",
+  "price": "40000",
+  "ingredients": "",
+  "imageUrl": "/cold_coffee/matcha.jpg"
+},
+{
+  "name": "Айс Латте",
+  "price": "35000",
+  "ingredients": "",
+  "imageUrl": "/cold_coffee/ice-latte.jpg"
+},
+{
+  "name": "Глясе",
+  "price": "26000",
+  "ingredients": "",
+  "imageUrl": "/cold_coffee/glace.jpg"
+},
+{
+  "name": "Фраппе",
+  "price": "43000",
+  "ingredients": "",
+  "imageUrl": "/cold_coffee/frappe.jpg"
+},
+{
+  "name": "Эспрессо Тоник",
+  "price": "45000",
+  "ingredients": "",
+  "imageUrl": "/cold_coffee/espresso-tonic.jpg"
+},
+{
+  "name": "Фраппучино",
+  "price": "45000",
+  "ingredients": "",
+  "imageUrl": "/cold_coffee/frappucino.jpg"
+},
+{
+  "name": "Аффогато",
+  "price": "30000",
+  "ingredients": "",
+  "imageUrl": "/cold_coffee/affogato.jpg"
+}
+
+
+  ],
+
+  "desserts": [
+    {
+      "name": "Cан-Себастьян классический",
+      "ingredients": " ",
+      "price": "60000",
+      "imageUrl": "/desserts/classic-sebastian.jpg"
+    },
+    {
+      "name": "Cан-Себастьян чёрная смородина",
+      "ingredients": " ",
+      "price": "70000",
+      "imageUrl": "/desserts/black-san-sebastian.jpg"
+    },
+    {
+      "name": "Cан-Себастьян фисташковый", 
+      "ingredients": " ",
+      "price": "70000",
+      "imageUrl": "/desserts/pistachio-sebastian.jpg"
+    },
+    {
+      "name": "Медовик",
+      "ingredients": " ",
+      "price": "50000",
+      "imageUrl": "/desserts/honey-cake.jpg"
+    },
+    {
+      "name": "Брауни с вишней",
+      "ingredients": " ",
+      "price": "70000",
+      "imageUrl": "/desserts/cherry-brownie.jpg"
+    },
+    {
+    "name": "Медовик david’s",
+    "ingredients": " ",
+    "price": "55000",
+    "imageUrl": "/desserts/davids-honey-cake.jpg" 
+    },
+    {
+    "name": "Красный бархат",
+    "ingredients": " ",
+    "price": "60000",
+    "imageUrl": "/desserts/red-velvet.jpg"
+    },
+    {
+  "name": "Тирамису",
+  "ingredients": " ",
+  "price": "60000",
+  "imageUrl": "/desserts/tiramisu.jpg"
+},
+{
+  "name": "Шоколадный медовик",
+  "ingredients": " ",
+  "price": "70000",
+  "imageUrl": "/desserts/chocolate-honey-cake.jpg"
+},
+
+  {
+  "name": "Сливочный круассан",
+  "price": "40000",
+  "ingredients": "",
+  "imageUrl": "/desserts/butter-croissant.jpg"
+},
+{
+  "name": "Фисташковый круассан",
+  "price": "6000",
+  "ingredients": "",
+  "imageUrl": "/desserts/pistachio-croissant.jpg"
+},
+{
+  "name": "Круассан с нутелой",
+  "price": "60000",
+  "ingredients": "",
+  "imageUrl": "/desserts/nutella-croissant.png"
+},
+{
+  "name": "Миндальный круассан",
+  "price": "65000",
+  "ingredients": "",
+  "imageUrl": "/desserts/almond-croissant.png"
+}
+  ],
+
+  "pizza": [
+    {
+      "name": "Маргарита",
+      "ingredients": "томатный соус, сыр моцарелла, помидор, базилик",
+      "price": "75000",
+      "imageUrl": "/pizza/margarita.PNG"
+    },
+    {
+      "name": "Карбонара",
+      "ingredients": "сливочный соус, сыр моцарелла, индейка, черри, яйцо, пармезан",
+      "price": "107000",
+      "imageUrl": "/pizza/carbonara.jpg"
+    },
+    {
+      "name": "Капричеза",
+      "ingredients": "томатный соус, сыр моцарелла, шампиньоны, черри, вяленая говядина, маслины",
+      "price": "107000",
+      "imageUrl": "/pizza/capricciosa.jpg"
+    },
+    {
+      "name": "Диабло",
+      "ingredients": "томатный соус, сыр моцарелла, колбаски, охотничьи сосиски, красный лук, болгарский перец, халапеньо, соус табаско",
+      "price": "107000",
+      "imageUrl": "/pizza/diablo.jpg"
+    },
+    {
+      "name": "Пеперони",
+      "ingredients": "томатный соус, сыр моцарелла, колбаски пеперони, помидор, маслины",
+      "price": "100000",
+      "imageUrl": "/pizza/paparoni.PNG"
+    },
+    {
+      "name": "Четыре сыра",
+      "ingredients": "сливочный соус, сыр моцарелла, камамбер, Дор Блю, пармезан",
+      "price": "120000",
+      "imageUrl": "/pizza/four-cheese.jpg"
+    }
+  ],
+
+  "sandwiches": [
+    {
+      "name": "бейгл с лососем",
+      "ingredients": "бейгл, лосось, сливочный сыр, черри, авокадо, айсберг",
+      "price": "90000",
+      "imageUrl": "/sandwiches/salmon-bagel.jpg"
+    },
+    {
+      "name": "бейгл с курицей",
+      "ingredients": "бейгл, курица, сливочный сыр, помидор, айсберг, соус песто, горчичный соус",
+      "price": "60000",
+      "imageUrl": "/sandwiches/chicken-bagel.jpg"
+    },
+    {
+      "name": "бейгл с индейкой",
+      "ingredients": "бейгл, индейка, сливочный сыр, помидор, айсберг, соус песто, горчичный соус",
+      "price": "65000",
+      "imageUrl":  "/sandwiches/chicken-bagel.jpg"
+    },
+    {
+      "name": "тост классический",
+      "ingredients": "тостовый хлеб, сыр моцарелла, помидор, соус песто, шпинат",
+      "price": "50000",
+      "imageUrl": "/sandwiches/classic-toast.jpg"
+    },
+    {
+      "name": "тост с курицей",
+      "ingredients": "тостовый хлеб, курица, сыр моцарелла, сливочный сыр, помидор, шпинат, соус песто, горчичный соус",
+      "price": "50000",
+      "imageUrl": "/sandwiches/chicken_toast.jpg"
+    },
+    {
+      "name": "тост с индейкой",
+      "ingredients": "тостовый хлеб, индейка, сыр моцарелла, сливочный сыр, помидор, шпинат, соус песто, горчичный соус",
+      "price": "60000",
+      "imageUrl": "/sandwiches/turkey-toast.jpg"
+    },
+    {
+      "name": "тост с говядиной",
+      "ingredients": "тостовый хлеб, говядина, сыр моцарелла, сливочный сыр, помидор, шпинат, горчичный соус",
+      "price": "65000",
+      "imageUrl": "/sandwiches/beef-toast.jpg"
+    },
+        {
+      "name": "круассан слососем",
+      "ingredients": "круассан, лосось, сливочный сыр, яйцо, авокадо, шпинат",
+      "price": "90000",
+      "imageUrl":  "/sandwiches/salmon-croissant.jpg"
+    },
+    {
+      "name": "круассан с курицей",
+      "ingredients": "круассан, курица, сливочный сыр, помидор, айсберг, горчичный соус",
+      "price": "60000",
+      "imageUrl": "/sandwiches/chicken-croissant.jpg"
+    },
+    {
+      "name": "круассан с индейкой",
+      "ingredients": "круассан, индейка, сливочный сыр, помидор, айсберг, горчичный соус",
+      "price": "65000",
+      "imageUrl": "/sandwiches/chicken-croissant.jpg"
+    },
+    {
+      "name": "круассан с говядиной",
+      "ingredients": "круассан, говядина, сливочный сыр, помидор, айсберг, горчичный соус",
+      "price": "75000",
+      "imageUrl": "/sandwiches/beef-croissant.jpg"
+    },
+      {
+    "name": "Бейгл-Тост Классический",
+    "price": "50000",
+    "ingredients": "бейгл, сыр моцарелла, помидор, соус песто, шпинат",
+    "imageUrl": "/sandwiches/classic-bagel-toast.jpg"
+  },
+  {
+    "name": "Бейгл-Тост с Курицей",
+    "price": "50000",
+    "ingredients": "бейгл, курица, сыр моцарелла, сливочный сыр, помидор, шпинат, соус песто, горчичный соус",
+    "imageUrl": "/sandwiches/chicken-bagel-toast.jpg"
+  },
+  {
+    "name": "Бейгл-Тост с Индейкой",
+    "price": "60000",
+    "ingredients": "бейгл, индейка, сыр моцарелла, сливочный сыр, помидор, шпинат, соус песто, горчичный соус",
+    "imageUrl": "/sandwiches/turkey-bagel-toast.jpg"
+  },
+  {
+    "name": "Бейгл-Тост с Говядиной",
+    "price": "65000",
+    "ingredients": "бейгл, говядина, сыр моцарелла, сливочный сыр, помидор, шпинат, горчичный соус",
+    "imageUrl": "/sandwiches/beef-bagel-toast.jpg"
+  }
+
+  ],
+
+  "tea": [
+       {
+      "name": "Облепиховый чай",
+      "ingredients": "",
+      "price": "40000",
+      "imageUrl": "tea/sea-buckthorn-tea.jpg"
+    },
+    {
+      "name": "Имбирный чай",
+      "ingredients": "",
+      "price": "40000",
+      "imageUrl": "/tea/ginger-tea.jpg"
+    },
+    {
+      "name": "Фруктовый чай",
+      "ingredients": "",
+      "price": "40000",
+      "imageUrl": "/tea/fruit-tea.jpg"
+    },
+    {
+      "name": "Ягодный чай",
+      "ingredients": "",
+      "price": "40000",
+      "imageUrl": "/tea/berry-tea.jpg"
+    },
+    {
+      "name": "Марокканский чай",
+      "ingredients": "",
+      "price": "40000",
+      "imageUrl": "/tea/morrocan-tea.jpg"
+    },
+    {
+      "name": "Молочный чай",
+      "ingredients": "",
+      "price": "40000",
+      "imageUrl": "/tea/milk-tea.jpg"
+    },
+    {
+      "name": "Чёрный чай",
+      "ingredients": "",
+      "price": "12000",
+      "imageUrl": "/tea/unknown-tea.png"
+    },
+    {
+      "name": "Зелёный чай",
+      "ingredients": "",
+      "price": "12000",
+      "imageUrl": "/tea/unknown-tea.png"
+    },
+    {
+      "name": "Эрл Грей",
+      "ingredients": "",
+      "price": "12000",
+      "imageUrl": "/tea/unknown-tea.png"
+    },
+    {
+      "name": "Дикая Вишня",
+      "ingredients": "",
+      "price": "12000",
+      "imageUrl": "/tea/unknown-tea.png"
+    },
+    {
+      "name": "Жасмин",
+      "ingredients": "",
+      "price": "12000",
+      "imageUrl": "/tea/unknown-tea.png"
+    },
+    {
+      "name": "Моргентау",
+      "ingredients": "",
+      "price": "12000",
+      "imageUrl": "/tea/unknown-tea.png"
+    },
+    {
+      "name": "Молочный Улун",
+      "ingredients": "",
+      "price": "12000",
+      "imageUrl": "/tea/unknown-tea.png"
+    }
+ 
+  ],
+
+  "smoothie": [
+    {
+  "name": "Цитрусовый",
+  "ingredients": "",
+  "price": "35000",
+  "imageUrl": "/smoothies/citrus.png"
+},
+{
+  "name": "Ягодный",
+  "ingredients": "",
+  "price": "35000",
+  "imageUrl": "/smoothies/berry.png"
+},
+{
+  "name": "Клубника-Банан",
+  "ingredients": "",
+  "price": "35000",
+  "imageUrl": "/smoothies/strawberry_banana.jpg"
+}
+
+  ],
+
+  "pastries": [
+
+  {
+  "name": "Булочка вишнёвая",
+  "price": "20000",
+  "ingredients": "",
+  "imageUrl": "/pastries/cherry-bun.png"
+},
+{
+  "name": "Сочник с творогом",
+  "price": "25000",
+  "ingredients": "",
+  "imageUrl": "/pastries/sochek-cottage-cheese.png"
+},
+{
+  "name": "Расстегай с картошкой и сыром",
+  "price": "20000",
+  "ingredients": "",
+  "imageUrl": "/pastries/rastegay.jpg"
+},
+{
+  "name": "Синабон",
+  "price": "15000",
+  "ingredients": "",
+  "imageUrl": "/pastries/cinnabon.png"
+}
+
+  ],
+
+  "milkshakes":[
+     {
+  "name": "Банановый",
+  "price": "50000",
+  "ingredients": "",
+  "imageUrl": "/milkshakes/banana.jpg"
+},
+{
+  "name": "Кокос",
+  "price": "50000",
+  "ingredients": "",
+  "imageUrl": "/milkshakes/coconut.jpg"
+},
+{
+  "name": "Ягодный",
+  "price": "50000",
+  "ingredients": "",
+  "imageUrl": "/milkshakes/berry.jpg"
+},
+{
+  "name": "Шоколадный",
+  "price": "50000",
+  "ingredients": "",
+  "imageUrl": "/milkshakes/chocolate.jpg"
+},
+{
+  "name": "Сникерс",
+  "price": "50000",
+  "ingredients": "",
+  "imageUrl": "/milkshakes/snickers.jpg"
+},
+{
+  "name": "Банан-Шоколад",
+  "price": "50000",
+  "ingredients": "",
+  "imageUrl": "/milkshakes/chocolate-banana.jpg"
+},
+{
+  "name": "Орео",
+  "price": "50000",
+  "ingredients": "",
+  "imageUrl": "/milkshakes/oreo.jpg"
+}
+  ],
+
+  "fresh-juice":[
+  {
+    "name": "Мохито",
+    "price": "30000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/mojito.jpg"
+  },
+  {
+    "name": "Клубника-Цитрус",
+    "price": "45000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/strawbbery-citrus.jpg"
+  },
+  {
+    "name": "Тархун",
+    "price": "45000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/tarragon.jpg"
+  },
+  {
+    "name": "David’s Лимонад",
+    "price": "30000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/davids-lemonade.jpg"
+  },
+  {
+    "name": "Манго-Маракуйя",
+    "price": "45000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/mango-passion-fruit.jpg"
+  },
+  {
+    "name": "Ягодка",
+    "price": "45000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/berry-mix.jpg"
+  },
+  {
+    "name": "Айсти",
+    "price": "45000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/iced-tea.jpg"
+  },
+  {
+    "name": "Тропики",
+    "price": "45000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/tropical.jpg"
+  }
+  ,
+  
+  {
+    "name": "Яблоко-апельсин",
+    "price": "35000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/apple-orange.jpg"
+  },
+  {
+    "name": "Морковный",
+    "price": "30000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/carrot.jpg"
+  },
+  {
+    "name": "Яблочный",
+    "price": "30000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/apple.jpg"
+  },
+  {
+    "name": "Апельсиновый",
+    "price": "45000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/orange.jpg"
+  },
+  {
+    "name": "Грейпфрут",
+    "price": "45000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/grapefruit.jpg"
+  },
+  {
+    "name": "Лимонный",
+    "price": "24000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/lemon.jpg"
+  },
+  {
+    "name": "Яблоко-Морковь",
+    "price": "30000",
+    "ingredients": "",
+    "imageUrl": "/fresh_juice/apple-carrot.jpg"
+  }
+  ],
+
+  "smoothies": [
+ 
+  {
+    "name": "Цитрусовый",
+    "price": "35000",
+    "ingredients": "",
+    "imageUrl": "/smoothies/citrus.jpg"
+  },
+  {
+    "name": "Ягодный",
+    "price": "35000",
+    "ingredients": "",
+    "imageUrl": "/smoothies/berry.jpg"
+  },
+  {
+    "name": "Клубника-Банан",
+    "price": "35000",
+    "ingredients": "",
+    "imageUrl": "/smoothies/strawberry-banana.jpg"
+  }
+
+  ]
+  
+
+
+
+
+
+
+
+     
+}
+
