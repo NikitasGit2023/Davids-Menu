@@ -40,29 +40,36 @@
 
 
 <!--category items-->
-<section class="menu-section container" *ngIf="activeCategory">
-
 <div class="menu-items-container">
   <div
     class="menu-item-col"
     *ngFor="let item of menuItems[activeCategory!] || []"
     (click)="openItem(item)"
   >
-    <div class="card text-center h-100" style="cursor: pointer; width: 100%;">
-      <img [src]="item.imageUrl" class="card-img-top img-fluid"   style="object-fit: contain; width: 100%; height: 70%;" />
+    <div class="card text-center h-100 menu-card" style="cursor: pointer; width: 100%;">
+      
+      <img 
+        [src]="item.imageUrl"
+        class="card-img-top img-fluid"
+        style="object-fit: contain; width: 100%; height: 70%;" 
+      />
+
+      <!-- CLICK HINT -->
+      <div class="click-hint">
+        👁 Нажмите для подробностей
+      </div>
+
       <div class="card-body">
         <h5 class="card-title">{{ item.name }}</h5>
         <p class="price text-muted">{{ item.price | number }} UZS</p>
       </div>
+
     </div>
   </div>
 </div>
 
-<div *ngIf="activeCategory && (menuItems[activeCategory!]?.length || 0) === 0" 
-     class="text-center mt-4" 
-     style="font-size:large; color: white;">
-  Временно недоступно
-</div>
+
+
 
 
 <!--modal-->
@@ -79,7 +86,7 @@
     <p *ngIf="selectedItem.description">{{ selectedItem.description }}</p>
 
     <div *ngIf="selectedItem.ingredients?.length">
-      <p><b>ингредиенты:</b> {{ selectedItem.ingredients.join(', ') }}</p>
+      <p><b>ингредиенты:</b> {{ selectedItem.ingredients}}</p>
     </div>
   </div>
 </div>

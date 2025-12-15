@@ -21,7 +21,7 @@ export interface MenuItem {
   price: number;
   imageUrl: string;
   description?: string,
-  ingredients: string[],
+  ingredients: string
 }
 
 @Component({
@@ -66,27 +66,34 @@ categories: Category[] = [
       });
   }
 
-  openCategory(category: Category) {
-    this.activeCategory = category.key;
-  }
+openCategory(category: Category) {
+  this.activeCategory = category.key;
+  history.pushState({ category: category.key }, '');
+}
+
 
   goBack() {
     this.activeCategory = null;
   }
 
-  @HostListener('window:popstate', ['$event'])
-  onPopState(event: Event) {
-    event.preventDefault();
-    if (this.activeCategory) {
-      this.activeCategory = null;
-      return history.pushState(null, '');
-    }
-    history.pushState(null, '');
+@HostListener('window:popstate')
+onPopState() {
+  if (this.selectedItem) {
+    this.selectedItem = null;
+    return;
   }
 
-  openItem(item: MenuItem) {
-    this.selectedItem = item;
+  if (this.activeCategory) {
+    this.activeCategory = null;
+    return;
   }
+
+}
+
+openItem(item: MenuItem) {
+  this.selectedItem = item;
+  history.pushState({ item: item.name }, '');
+}
 
   closeItem() {
     this.selectedItem = null;
