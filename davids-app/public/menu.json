@@ -64,67 +64,67 @@
     "name": "Эспрессо",
     "price": "19000",
     "ingredients": "",
-    "imageUrl": "/hot_drinks/espresso.jpg"
+    "imageUrl": "/hot-drinks/espresso.jpg"
   },
   {
     "name": "Капучино",
     "price": "26000",
     "ingredients": "",
-    "imageUrl": "/hot_drinks/capuccino.jpg"
+    "imageUrl": "/hot-drinks/capuccino.jpg"
   },
   {
     "name": "Матча Латте",
     "price": "40000",
     "ingredients": "",
-    "imageUrl": "/hot_drinks/matcha-latte.jpg"
+    "imageUrl": "/hot-drinks/matcha-latte.jpg"
   },
   {
     "name": "Американо",
     "price": "22000",
     "ingredients": "",
-    "imageUrl": "/hot_drinks/americano.jpg"
+    "imageUrl": "/hot-drinks/americano.jpg"
   },
   {
     "name": "Горячий Шоколад",
     "price": "33000",
     "ingredients": "",
-    "imageUrl": "/hot_drinks/hot-chocolate.jpg"
+    "imageUrl": "/hot-drinks/hot-chocolate.jpg"
   },
   {
     "name": "Латте",
     "price": "28000",
     "ingredients": "",
-    "imageUrl": "/hot_drinks/latte.png"
+    "imageUrl": "/hot-drinks/latte.jpg"
   },
   {
     "name": "Раф",
     "price": "40000",
     "ingredients": "",
-    "imageUrl": "/hot_drinks/raf.jpg"
+    "imageUrl": "/hot-drinks/raf.jpg"
   },
   {
     "name": "Мокко",
     "price": "27000",
     "ingredients": "",
-    "imageUrl": "/hot_drinks/mocha.jpg"
+    "imageUrl": "/hot-drinks/mocha.jpg"
   },
   {
     "name": "Горячий Какао",
     "price": "30000",
     "ingredients": "",
-    "imageUrl": "/hot_drinks/hot-cocoa.jpg"
+    "imageUrl": "/hot-drinks/hot-cocoa.jpg"
   },
   {
     "name": "Глинтвейн Б/А",
     "price": "40000",
     "ingredients": "",
-    "imageUrl": "/hot_drinks/mulledwine.jpg"
+    "imageUrl": "/hot-drinks/mulledwine.jpg"
   },
   {
     "name": "Флэт Уайт",
     "price": "27000",
     "ingredients": "",
-    "imageUrl": "/hot_drinks/flat-white.jpg"
+    "imageUrl": "/hot-drinks/flat-white.jpg"
   }
   ],
 
@@ -246,7 +246,7 @@
 {
   "name": "Шоколадный медовик",
   "ingredients": " ",
-  "price": "70000",
+  "price": "65000",
   "imageUrl": "/desserts/chocolate-honey-cake.jpg"
 },
 
@@ -315,51 +315,10 @@
     }
   ],
 
+  
   "sandwiches": [
     {
-      "name": "бейгл с лососем",
-      "ingredients": "бейгл, лосось, сливочный сыр, черри, авокадо, айсберг",
-      "price": "90000",
-      "imageUrl": "/sandwiches/salmon-bagel.jpg"
-    },
-    {
-      "name": "бейгл с курицей",
-      "ingredients": "бейгл, курица, сливочный сыр, помидор, айсберг, соус песто, горчичный соус",
-      "price": "60000",
-      "imageUrl": "/sandwiches/chicken-bagel.jpg"
-    },
-    {
-      "name": "бейгл с индейкой",
-      "ingredients": "бейгл, индейка, сливочный сыр, помидор, айсберг, соус песто, горчичный соус",
-      "price": "65000",
-      "imageUrl":  "/sandwiches/chicken-bagel.jpg"
-    },
-    {
-      "name": "тост классический",
-      "ingredients": "тостовый хлеб, сыр моцарелла, помидор, соус песто, шпинат",
-      "price": "50000",
-      "imageUrl": "/sandwiches/classic-toast.jpg"
-    },
-    {
-      "name": "тост с курицей",
-      "ingredients": "тостовый хлеб, курица, сыр моцарелла, сливочный сыр, помидор, шпинат, соус песто, горчичный соус",
-      "price": "50000",
-      "imageUrl": "/sandwiches/chicken_toast.jpg"
-    },
-    {
-      "name": "тост с индейкой",
-      "ingredients": "тостовый хлеб, индейка, сыр моцарелла, сливочный сыр, помидор, шпинат, соус песто, горчичный соус",
-      "price": "60000",
-      "imageUrl": "/sandwiches/turkey-toast.jpg"
-    },
-    {
-      "name": "тост с говядиной",
-      "ingredients": "тостовый хлеб, говядина, сыр моцарелла, сливочный сыр, помидор, шпинат, горчичный соус",
-      "price": "65000",
-      "imageUrl": "/sandwiches/beef-toast.jpg"
-    },
-        {
-      "name": "круассан слососем",
+      "name": "круассан с лососем",
       "ingredients": "круассан, лосось, сливочный сыр, яйцо, авокадо, шпинат",
       "price": "90000",
       "imageUrl":  "/sandwiches/salmon-croissant.jpg"
@@ -382,30 +341,80 @@
       "price": "75000",
       "imageUrl": "/sandwiches/beef-croissant.jpg"
     },
+    {
+      "name": "бейгл с индейкой",
+      "ingredients": "бейгл, индейка, сливочный сыр, помидор, айсберг, соус песто, горчичный соус",
+      "price": "55000",
+      "imageUrl":  "/sandwiches/turkey-bagel.jpg"
+    },
+    {
+      "name": "бейгл с лососем",
+      "ingredients": "бейгл, лосось, сливочный сыр, черри, авокадо, айсберг",
+      "price": "85000",
+      "imageUrl": "/sandwiches/salmon-bagel.jpg"
+    },
+    {
+      "name": "бейгл с курицей",
+      "ingredients": "бейгл, курица, сливочный сыр, помидор, айсберг, соус песто, горчичный соус",
+      "price": "50000",
+      "imageUrl": "/sandwiches/chicken-bagel.jpg"
+    },
+    {
+      "name": "бейгл с индейкой",
+      "ingredients": "бейгл, индейка, сливочный сыр, помидор, айсберг, соус песто, горчичный соус",
+      "price": "55000",
+      "imageUrl":  "/sandwiches/beef-bagel.jpg"
+    },
       {
     "name": "Бейгл-Тост Классический",
     "price": "50000",
     "ingredients": "бейгл, сыр моцарелла, помидор, соус песто, шпинат",
     "imageUrl": "/sandwiches/classic-bagel-toast.jpg"
   },
-  {
+    {
     "name": "Бейгл-Тост с Курицей",
     "price": "50000",
     "ingredients": "бейгл, курица, сыр моцарелла, сливочный сыр, помидор, шпинат, соус песто, горчичный соус",
     "imageUrl": "/sandwiches/chicken-bagel-toast.jpg"
   },
-  {
+    {
     "name": "Бейгл-Тост с Индейкой",
     "price": "60000",
     "ingredients": "бейгл, индейка, сыр моцарелла, сливочный сыр, помидор, шпинат, соус песто, горчичный соус",
     "imageUrl": "/sandwiches/turkey-bagel-toast.jpg"
   },
-  {
+    {
     "name": "Бейгл-Тост с Говядиной",
     "price": "65000",
     "ingredients": "бейгл, говядина, сыр моцарелла, сливочный сыр, помидор, шпинат, горчичный соус",
     "imageUrl": "/sandwiches/beef-bagel-toast.jpg"
-  }
+  },
+      {
+      "name": "тост классический",
+      "ingredients": "тостовый хлеб, сыр моцарелла, помидор, соус песто, шпинат",
+      "price": "50000",
+      "imageUrl": "/sandwiches/classic-toast.jpg"
+    },
+        {
+      "name": "тост с курицей",
+      "ingredients": "тостовый хлеб, курица, сыр моцарелла, сливочный сыр, помидор, шпинат, соус песто, горчичный соус",
+      "price": "50000",
+      "imageUrl": "/sandwiches/chicken-toast.jpg"
+    },  
+    {
+      "name": "тост с индейкой",
+      "ingredients": "тостовый хлеб, индейка, сыр моцарелла, сливочный сыр, помидор, шпинат, соус песто, горчичный соус",
+      "price": "60000",
+      "imageUrl": "/sandwiches/turkey-toast.jpg"
+    },
+
+    {
+      "name": "тост с говядиной",
+      "ingredients": "тостовый хлеб, говядина, сыр моцарелла, сливочный сыр, помидор, шпинат, горчичный соус",
+      "price": "65000",
+      "imageUrl": "/sandwiches/beef-toast.jpg"
+    }
+
 
   ],
 
@@ -465,12 +474,6 @@
       "imageUrl": "/tea/unknown-tea.png"
     },
     {
-      "name": "Дикая Вишня",
-      "ingredients": "",
-      "price": "12000",
-      "imageUrl": "/tea/unknown-tea.png"
-    },
-    {
       "name": "Жасмин",
       "ingredients": "",
       "price": "12000",
@@ -515,15 +518,21 @@
 
   "pastries": [
 
-  {
+{
   "name": "Булочка вишнёвая",
   "price": "20000",
   "ingredients": "",
   "imageUrl": "/pastries/cherry-bun.png"
 },
 {
-  "name": "Сочник с творогом",
+  "name": "Синабон",
   "price": "25000",
+  "ingredients": "",
+  "imageUrl": "/pastries/cinnabon.png"
+},
+{
+  "name": "Сочник с творогом",
+  "price": "15000",
   "ingredients": "",
   "imageUrl": "/pastries/sochek-cottage-cheese.png"
 },
@@ -532,12 +541,6 @@
   "price": "20000",
   "ingredients": "",
   "imageUrl": "/pastries/rastegay.jpg"
-},
-{
-  "name": "Синабон",
-  "price": "15000",
-  "ingredients": "",
-  "imageUrl": "/pastries/cinnabon.png"
 }
 
   ],
